@@ -1,4 +1,3 @@
-from __future__ import print_function
 
 import datetime
 from decimal import Decimal, getcontext, ROUND_HALF_DOWN
