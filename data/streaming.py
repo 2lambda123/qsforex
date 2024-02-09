@@ -1,4 +1,3 @@
-from __future__ import print_function
 
 from decimal import Decimal, getcontext, ROUND_HALF_DOWN
 import logging

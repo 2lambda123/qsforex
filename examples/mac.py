@@ -1,4 +1,3 @@
-from __future__ import print_function
 
 from qsforex.backtest.backtest import Backtest
 from qsforex.execution.execution import SimulatedExecution
